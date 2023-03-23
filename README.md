@@ -45,20 +45,20 @@
 
 ## 소장 입력시 유사판례 제공
 
-| <img src="./imgs/written_petition.png" alt="petition"  /> | <img src="./imgs/similar_analysis.png" alt="유사판례 제공"  /> |
+| <img src="./imgs/written_petition.png" alt="petition"  /> | <img src="./imgs/similar_analysis.png" alt="유사판례 제공"/> |
 | --------------------------------------------------------- | ------------------------------------------------------------ |
 
 사용자가 본인의 상황 양식을 소장에 청구취지와 청구원인을 채우거나 이미지 파일을 통해 소장 등을 제시하면 네이버 ocr api를 통해 청구취지와 청구원인을 도출한다. 그 후, 자연어처리 기술(TF-IDF)을 통해 유사한 판례를 찾는데 필요한 키워드만을 뽑아 판례 DB에서 이와 유사한 판례를 찾아 제시해주는 기능이다.
 
 ## 법률 용어와 법령 검색 서비스
 
-<img src="./imgs/dictionary.png" alt="법령용어" style="width: 30%;" />
+<img src="./imgs/dictionary.png" alt="법령용어" style="width: 40%;" />
 
 판례, 고소장 등에서 잘 모르는 법률 용어가 나타나면, 앱 안에서 바로 검색하여 용어에 대한 뜻풀이를 얻을 수 있다.
 
 ## 전문 변호사 QNA
 
-<img src="./imgs/qna.png" alt="qna" style="width: 30%;" />
+<img src="./imgs/qna.png" alt="qna" style="width: 40%;" />
 
 QnA 게시판을 통해 법률 전문가로부터 질문에 대한 전문적인 답변을 받을 수 있다.
 
