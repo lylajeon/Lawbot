@@ -52,13 +52,13 @@
 
 ## 법률 용어와 법령 검색 서비스
 
-<img src="./imgs/dictionary.png" alt="법령용어" style="zoom: 25%;" />
+<img src="./imgs/dictionary.png" alt="법령용어" style="width: 30%;" />
 
 판례, 고소장 등에서 잘 모르는 법률 용어가 나타나면, 앱 안에서 바로 검색하여 용어에 대한 뜻풀이를 얻을 수 있다.
 
 ## 전문 변호사 QNA
 
-<img src="./imgs/qna.png" alt="qna" style="zoom: 25%;" />
+<img src="./imgs/qna.png" alt="qna" style="width: 30%;" />
 
 QnA 게시판을 통해 법률 전문가로부터 질문에 대한 전문적인 답변을 받을 수 있다.
 
