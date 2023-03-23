@@ -20,7 +20,13 @@
 
 ### 일반인에게는 접근하기 어렵고 이해하기도 어려운 법에 관한 서비스를 제공하여 민사소송에서의 법적분쟁을 조율하는데 도움이 되기 위한 프로젝트
 
-## Demo video 
+## Demo
 
-[Youtube link](https://youtu.be/iHc02hxnq-M)
+[Youtube video link](https://youtu.be/iHc02hxnq-M)
+
+## App
+
+[apk file](https://drive.google.com/file/d/1mdvdv0vexwYidwanG-KKhPva_8KTmlZZ/view?usp=sharing) (currently service not available, just as a legacy)
+
+
 
